@@ -10,6 +10,7 @@ ____
 ## Was used in the project:
 + HTTP Servlets
 + JDBC (PostgreSQL)
++ Session
 + Bootstrap 
 ____
 
